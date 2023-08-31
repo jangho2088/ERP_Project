@@ -4,5 +4,7 @@ public class DaoTest {
 	
 	public void insert() {
 		
+		System.out.println("test");
+		
 	}
 }
