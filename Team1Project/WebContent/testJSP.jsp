@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-Just Test Wjq...
+Just Test W
 </body>
 </html>
